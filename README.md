@@ -4,3 +4,6 @@
 
 ## ajax跨域简单请求与复杂请求
 ### https://www.cnblogs.com/ranyonsue/p/11770769.html
+
+## 移动端H5适配（拉勾、网易、阿里三种方式）
+### https://blog.csdn.net/qq_34020571/article/details/78923089
