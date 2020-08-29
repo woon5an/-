@@ -10,3 +10,6 @@
 
 ## 左定宽右边自适应布局
 ### https://www.cnblogs.com/imwtr/p/4440475.html 、 https://blog.csdn.net/qq_37339364/article/details/82698094
+
+## rem和em区别
+### https://www.cnblogs.com/wanqingcui/p/8243915.html 、 https://blog.csdn.net/romantic_love/article/details/80875462
