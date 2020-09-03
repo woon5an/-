@@ -19,3 +19,4 @@
 
 ## 闭包
 ### http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
+### 由闭包中阮先生提的思考题，做了尝试发现node和浏览器中输出结果不同 https://blog.csdn.net/qq_33594380/article/details/82254834
