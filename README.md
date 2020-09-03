@@ -16,3 +16,6 @@
 
 ## 排序
 ### https://www.jianshu.com/p/0937bbbb4371
+
+## 闭包
+### http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
