@@ -1,4 +1,4 @@
-# 收集的用于学习的博客、文章
+x# 收集的用于学习的博客、文章
 ## js浅拷贝深拷贝
 ### https://www.jianshu.com/p/1c142ec2ca45
 
@@ -24,3 +24,6 @@
 
 ## for循环中setTimeout的三种情况
 ### https://blog.csdn.net/Febby_/article/details/94763441
+
+## 清除浮动
+### https://www.cnblogs.com/klmn/p/6294082.html 、 https://www.cnblogs.com/SallyShan/p/11470549.html
