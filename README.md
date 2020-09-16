@@ -30,3 +30,6 @@ x# 收集的用于学习的博客、文章
 
 ## BFC
 ### https://www.cnblogs.com/XH-jing/p/12354083.html 、 https://blog.csdn.net/sinat_36422236/article/details/88763187
+
+## commonJS和esmodule区别
+### https://blog.csdn.net/weixin_33696106/article/details/91428247 、 https://www.cnblogs.com/unclekeith/archive/2017/10/17/7679503.html
