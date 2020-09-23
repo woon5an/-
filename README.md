@@ -36,3 +36,6 @@ x# 收集的用于学习的博客、文章
 
 ## js中call()方法apply()方法总结
 ### https://blog.csdn.net/ganyingxie123456/article/details/70855586
+
+## JS 原型、原型链
+### https://blog.csdn.net/qq_43955202/article/details/90310751 、https://blog.csdn.net/qq_43955202/article/details/92087938
