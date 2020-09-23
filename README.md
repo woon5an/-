@@ -33,3 +33,6 @@ x# 收集的用于学习的博客、文章
 
 ## commonJS和esmodule区别
 ### https://blog.csdn.net/weixin_33696106/article/details/91428247 、 https://www.cnblogs.com/unclekeith/archive/2017/10/17/7679503.html 、https://zhuanlan.zhihu.com/p/161015809
+
+## js中call()方法apply()方法总结
+### https://blog.csdn.net/ganyingxie123456/article/details/70855586
