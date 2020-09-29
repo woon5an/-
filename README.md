@@ -38,13 +38,13 @@ x# 收集的用于学习的博客、文章
 ### https://blog.csdn.net/ganyingxie123456/article/details/70855586
 
 ## JS 原型、原型链
-### https://blog.csdn.net/qq_43955202/article/details/90310751 、https://blog.csdn.net/qq_43955202/article/details/92087938
+### https://blog.csdn.net/qq_43955202/article/details/90310751 、 https://blog.csdn.net/qq_43955202/article/details/92087938
 
 ## 跨站跟踪攻击(CST/XST)
-### https://www.cnblogs.com/endust/p/11959990.html 、
+### https://www.cnblogs.com/endust/p/11959990.html
 
 ## 正向、反向代理
-### https://www.cnblogs.com/ysocean/p/9392908.html 、https://blog.csdn.net/a3192048/article/details/89737337
+### https://www.cnblogs.com/ysocean/p/9392908.html 、 https://blog.csdn.net/a3192048/article/details/89737337
 
 ## 解决小程序生命周期页面onload先于小程序onlaunch执行
 ### https://blog.csdn.net/q1923408717/article/details/100668002
