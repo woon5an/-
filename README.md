@@ -45,3 +45,6 @@ x# 收集的用于学习的博客、文章
 
 ## 正向、反向代理
 ### https://www.cnblogs.com/ysocean/p/9392908.html 、https://blog.csdn.net/a3192048/article/details/89737337
+
+## 解决小程序生命周期页面onload先于小程序onlaunch执行
+### https://blog.csdn.net/q1923408717/article/details/100668002
