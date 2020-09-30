@@ -51,3 +51,6 @@
 
 ## 踩坑页面蒙层导致的双滚动条
 ### https://www.cnblogs.com/10manongit/p/12785637.html
+
+## jsonp
+### https://blog.csdn.net/hansexploration/article/details/80314948 、 https://www.bejson.com/knownjson/aboutjsonp/
