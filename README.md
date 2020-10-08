@@ -54,3 +54,6 @@
 
 ## jsonp
 ### https://blog.csdn.net/hansexploration/article/details/80314948 、 https://www.bejson.com/knownjson/aboutjsonp/
+
+## es6属性名表达式
+### https://www.cnblogs.com/garfieldzhong/p/6743551.html
