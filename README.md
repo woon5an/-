@@ -57,3 +57,6 @@
 
 ## es6属性名表达式
 ### https://www.cnblogs.com/garfieldzhong/p/6743551.html
+
+## 手动写一个bind方法
+### https://www.cnblogs.com/echolun/p/12178655.html
