@@ -73,3 +73,5 @@
 ## vue 2x 3.0 对象劫持（双向数据绑定）
 ### https://blog.csdn.net/Peggy0829/article/details/106491310
 
+## SPA想做SEO有什么解决方案
+### https://taskhub.work/article/73058307795021824
