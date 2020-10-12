@@ -66,3 +66,6 @@
 
 ## method和computed区别
 ### https://zhuanlan.zhihu.com/p/122401931 、 https://segmentfault.com/a/1190000014478664
+
+## vue生命周期
+### https://zhuanlan.zhihu.com/p/53039906
