@@ -63,3 +63,6 @@
 
 ## 手动实现函数柯里化
 ### https://blog.csdn.net/weixin_33726313/article/details/88731643
+
+## method和computed区别
+### https://zhuanlan.zhihu.com/p/122401931 、 https://segmentfault.com/a/1190000014478664
