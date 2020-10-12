@@ -69,3 +69,7 @@
 
 ## vue生命周期
 ### https://zhuanlan.zhihu.com/p/53039906
+
+## vue 2x 3.0 对象劫持（双向数据绑定）
+### https://blog.csdn.net/Peggy0829/article/details/106491310
+
