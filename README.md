@@ -74,4 +74,4 @@
 ### https://blog.csdn.net/Peggy0829/article/details/106491310
 
 ## SPA想做SEO有什么解决方案
-### https://taskhub.work/article/73058307795021824 、 https://blog.csdn.net/weixin_42941619/article/details/88680053
+### https://taskhub.work/article/73058307795021824 、 https://blog.csdn.net/weixin_42941619/article/details/88680053 、 https://blog.csdn.net/yftk765768540/article/details/81047145
