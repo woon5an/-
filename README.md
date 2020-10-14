@@ -75,3 +75,12 @@
 
 ## SPA想做SEO有什么解决方案
 ### https://taskhub.work/article/73058307795021824 、 https://blog.csdn.net/weixin_42941619/article/details/88680053 、 https://blog.csdn.net/yftk765768540/article/details/81047145 、http://www.seoyhw.com/seopx/seogh/50.html
+
+## 301 状态码和 302 状态码对 SEO 有什么影响
+### http://blog.sina.com.cn/s/blog_15c3bb5230102x001.html
+
+## 401 状态码和 403状态码区别
+### https://blog.csdn.net/qwqasd123456/article/details/100528295?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param 、 https://blog.csdn.net/lncci/article/details/80183412?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param
+
+## 树形结构菜单
+### https://www.cnblogs.com/jardeng/p/13541640.html
