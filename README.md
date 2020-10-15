@@ -15,7 +15,7 @@
 ### https://www.cnblogs.com/wanqingcui/p/8243915.html 、 https://blog.csdn.net/romantic_love/article/details/80875462
 
 ## 排序
-### https://www.jianshu.com/p/0937bbbb4371
+### https://www.jianshu.com/p/0937bbbb4371 、 https://www.cnblogs.com/onepixel/p/7674659.html
 
 ## 闭包
 ### http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html
