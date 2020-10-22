@@ -61,6 +61,9 @@
 ## 手动写一个bind方法
 ### https://www.cnblogs.com/echolun/p/12178655.html
 
+## 手写apply call bind
+### https://segmentfault.com/a/1190000018383649
+
 ## 手动实现函数柯里化
 ### https://blog.csdn.net/weixin_33726313/article/details/88731643
 
