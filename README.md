@@ -59,7 +59,7 @@
 ### https://www.cnblogs.com/garfieldzhong/p/6743551.html
 
 ## 手动写一个bind方法
-### https://www.cnblogs.com/echolun/p/12178655.html
+### https://www.cnblogs.com/echolun/p/12178655.html 、 https://segmentfault.com/a/1190000017091983
 
 ## 手写apply call bind
 ### https://segmentfault.com/a/1190000018383649
