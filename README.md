@@ -99,3 +99,6 @@
 
 ## node事件循环和浏览器事件循环的不同
 ### https://blog.csdn.net/Fundebug/article/details/86487117
+
+## 浏览器从输入URL到渲染完页面的整个过程
+### https://blog.csdn.net/x550392236/article/details/106473683 、 https://www.cnblogs.com/qing-5/p/11126524.html
