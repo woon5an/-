@@ -102,3 +102,6 @@
 
 ## 浏览器从输入URL到渲染完页面的整个过程
 ### https://blog.csdn.net/x550392236/article/details/106473683 、 https://www.cnblogs.com/qing-5/p/11126524.html
+
+## http1.x 2 https
+### https://blog.csdn.net/weixin_37719279/article/details/81388358
