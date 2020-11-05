@@ -105,3 +105,6 @@
 
 ## http1.x 2 https
 ### https://blog.csdn.net/weixin_37719279/article/details/81388358
+
+## class实现私有属性
+### https://juejin.im/post/6881894768117284878
