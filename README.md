@@ -126,3 +126,12 @@
 
 ## https建立连接及ssl/tls运行机制
 ### https://www.cnblogs.com/glory0727/p/9857511.html 、 http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html
+
+## 代理模式实现图片预加载、懒加载
+### https://www.cnblogs.com/houjl/p/10137641.html
+
+## 代理模式实现单例模式
+### https://www.cnblogs.com/yonglin/p/8080836.html
+
+## 代理模式使用场景汇总
+### https://www.jianshu.com/p/d016261e24a0
