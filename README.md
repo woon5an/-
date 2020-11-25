@@ -123,3 +123,6 @@
 
 ## 递归
 ### https://blog.csdn.net/sinat_17775997/article/details/88983061
+
+## https建立连接及ssl/tls运行机制
+### https://www.cnblogs.com/glory0727/p/9857511.html 、 http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html
