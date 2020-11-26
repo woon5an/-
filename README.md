@@ -138,3 +138,6 @@
 
 ## 常用的几种js设计模式
 ### https://www.cnblogs.com/dennisj/p/12937306.html
+
+## 子相父绝
+### https://www.cnblogs.com/sogeisetsu/p/11758770.html
