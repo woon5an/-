@@ -139,5 +139,9 @@
 ## 常用的几种js设计模式
 ### https://www.cnblogs.com/dennisj/p/12937306.html
 
+## 工厂模式游戏角色
+### https://segmentfault.com/a/1190000015865576
+
 ## 子相父绝
 ### https://www.cnblogs.com/sogeisetsu/p/11758770.html
+
