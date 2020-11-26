@@ -135,3 +135,6 @@
 
 ## 代理模式使用场景汇总
 ### https://www.jianshu.com/p/d016261e24a0
+
+## 常用的几种js设计模式
+### https://www.cnblogs.com/dennisj/p/12937306.html
