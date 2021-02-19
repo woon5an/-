@@ -147,3 +147,6 @@
 
 ## css交互动画
 ### https://www.cnblogs.com/moqiutao/p/6408252.html
+
+## 作用域、作用域链、词法作用域、词法环境
+### https://www.cnblogs.com/jztan/p/12342301.html
