@@ -65,7 +65,7 @@
 ### https://www.cnblogs.com/echolun/p/12178655.html 、 https://segmentfault.com/a/1190000017091983
 
 ## 手写apply call bind
-### https://segmentfault.com/a/1190000018383649
+### https://segmentfault.com/a/1190000018383649 、 https://segmentfault.com/a/1190000017091983
 
 ## 手动实现函数柯里化
 ### https://blog.csdn.net/weixin_33726313/article/details/88731643
