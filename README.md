@@ -153,3 +153,6 @@
 
 ## 作用域、作用域链、词法作用域、词法环境
 ### https://www.cnblogs.com/jztan/p/12342301.html
+
+## String和new String()区别、==类型转换、以及==、===区别
+### https://blog.csdn.net/tianxintiandisheng/article/details/103099789
