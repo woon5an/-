@@ -156,3 +156,6 @@
 
 ## String和new String()区别、==类型转换、以及==、===区别
 ### https://blog.csdn.net/tianxintiandisheng/article/details/103099789
+
+## DNS劫持、DNS缓存污染
+### http://blog.chinaunix.net/uid-30241692-id-5787617.html
