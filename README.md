@@ -159,3 +159,6 @@
 
 ## DNS劫持、DNS缓存污染
 ### http://blog.chinaunix.net/uid-30241692-id-5787617.html
+
+## vue diff 算法
+### https://segmentfault.com/a/1190000008782928
