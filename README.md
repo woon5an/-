@@ -162,3 +162,6 @@
 
 ## vue diff 算法
 ### https://segmentfault.com/a/1190000008782928
+
+## nexttick
+### https://juejin.cn/post/6844903599655370765#heading-1
