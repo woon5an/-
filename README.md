@@ -160,6 +160,9 @@
 ## DNS劫持、DNS缓存污染
 ### http://blog.chinaunix.net/uid-30241692-id-5787617.html
 
+## 三次握手
+### https://blog.csdn.net/charking_gg/article/details/81663768
+
 ## vue diff 算法
 ### https://segmentfault.com/a/1190000008782928
 
