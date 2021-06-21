@@ -84,6 +84,7 @@
 
 ## 301 状态码和 302 状态码对 SEO 有什么影响
 ### http://blog.sina.com.cn/s/blog_15c3bb5230102x001.html
+### https://blog.csdn.net/qq_38890412/article/details/105179214
 
 ## 401 状态码和 403状态码区别
 ### https://blog.csdn.net/qwqasd123456/article/details/100528295?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param 、 https://blog.csdn.net/lncci/article/details/80183412?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param
